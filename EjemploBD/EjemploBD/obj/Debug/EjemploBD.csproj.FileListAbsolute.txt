@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploBD\EjemploBD\bin\Debug\EjemploBD.exe.config
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\bin\Debug\EjemploBD.exe
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\bin\Debug\EjemploBD.pdb
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.csprojResolveAssemblyReference.cache
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.Form1.resources
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.Properties.Resources.resources
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.csproj.GenerateResource.Cache
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.exe
+C:\Users\eduardo\Documents\Visual Studio 2013\Projects\EjemploBD\EjemploBD\obj\Debug\EjemploBD.pdb

@@ -1,0 +1,12 @@
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\bin\Debug\EjemploMySQL.exe.config
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\bin\Debug\EjemploMySQL.exe
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\bin\Debug\EjemploMySQL.pdb
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.Form1.resources
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.exe
+c:\users\eduardo\documents\visual studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.pdb
+C:\Users\Tomas Alfonso\Documents\Visual Studio 2013\Projects\EjemploMySQL\EjemploMySQL\bin\Debug\EjemploMySQL.exe.config
+C:\Users\Tomas Alfonso\Documents\Visual Studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.exe
+C:\Users\Tomas Alfonso\Documents\Visual Studio 2013\Projects\EjemploMySQL\EjemploMySQL\obj\Debug\EjemploMySQL.pdb
